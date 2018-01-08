@@ -1,0 +1,699 @@
+{
+  "diagram": {
+    "blobs": [
+      {
+        "coords": {
+          "x": 502.1650312138519,
+          "y": 895.3304624904663
+        }, 
+        "height": 40, 
+        "number": "5002", 
+        "piece_ids": [
+          18778
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 898.2053316918225, 
+          "y": 1112.7990203422091
+        }, 
+        "height": 40, 
+        "number": "23", 
+        "piece_ids": [
+          19401
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 898.2053316918225, 
+          "y": 1158.767983790545
+        }, 
+        "height": 40, 
+        "number": "31", 
+        "piece_ids": [
+          19402
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 894.669257580412, 
+          "y": 1201.200859638418
+        }, 
+        "height": 40, 
+        "number": "23", 
+        "piece_ids": [
+          19401
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 898.2053316918225, 
+          "y": 1250.7058971981644
+        }, 
+        "height": 40, 
+        "number": "36", 
+        "piece_ids": [
+          18018
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 1905.9863455313834, 
+          "y": 1121.6392056207353
+        }, 
+        "height": 40, 
+        "number": "23", 
+        "piece_ids": [
+          19401
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 1902.450271419973, 
+          "y": 1165.8401320133657
+        }, 
+        "height": 40, 
+        "number": "31", 
+        "piece_ids": [
+          19402
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 1911.2904566984992, 
+          "y": 1215.34515608406
+        }, 
+        "height": 40, 
+        "number": "30", 
+        "piece_ids": [
+          19403
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 1909.522419642794, 
+          "y": 1250.7058971981644
+        }, 
+        "height": 40, 
+        "number": "32", 
+        "piece_ids": [
+          19404
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 1909.522419642794, 
+          "y": 1294.906823590795
+        }, 
+        "height": 40, 
+        "number": "23", 
+        "piece_ids": [
+          19401
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 503.9330682695571, 
+          "y": 1280.7625406342056
+        }, 
+        "height": 40, 
+        "number": "23", 
+        "piece_ids": [
+          19401
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 502.1650312138519, 
+          "y": 1347.947948751004
+        }, 
+        "height": 40, 
+        "number": "24", 
+        "piece_ids": [
+          19405
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 505.70110532526235, 
+          "y": 1404.5251345335714
+        }, 
+        "height": 40, 
+        "number": "23", 
+        "piece_ids": [
+          19401
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 507.4691423809676, 
+          "y": 1459.3342832604333
+        }, 
+        "height": 40, 
+        "number": "22", 
+        "piece_ids": [
+          19406
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 511.00521649237805, 
+          "y": 1530.0557519995903
+        }, 
+        "height": 40, 
+        "number": "19", 
+        "piece_ids": [
+          18401
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 502.1650312138519, 
+          "y": 1614.921530673441
+        }, 
+        "height": 40, 
+        "number": "21", 
+        "piece_ids": [
+          18399
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 799.1952026161209, 
+          "y": 1604.3133083392097
+        }, 
+        "height": 40, 
+        "number": "26", 
+        "piece_ids": [
+          18327
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 495.09288299103105, 
+          "y": 1802.333458578195
+        }, 
+        "height": 40, 
+        "number": "17", 
+        "piece_ids": [
+          18391
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 311.21700221958304, 
+          "y": 1777.5809397983219
+        }, 
+        "height": 40, 
+        "number": "18", 
+        "piece_ids": [
+          18733
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 1527.626523522883, 
+          "y": 1659.1224570660715
+        }, 
+        "height": 40, 
+        "number": "29", 
+        "piece_ids": [
+          19410
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 1515.2502641329463, 
+          "y": 1763.43664335268
+        }, 
+        "height": 40, 
+        "number": "23", 
+        "piece_ids": [
+          19401
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 1522.3224123557673, 
+          "y": 1812.9416809124264
+        }, 
+        "height": 40, 
+        "number": "28", 
+        "piece_ids": [
+          19411
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 1520.554375300062, 
+          "y": 1880.1270890292249
+        }, 
+        "height": 40, 
+        "number": "23", 
+        "piece_ids": [
+          19401
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 1522.3224123557673, 
+          "y": 1933.1682007003817
+        }, 
+        "height": 40, 
+        "number": "1", 
+        "piece_ids": [
+          19533
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 1520.554375300062, 
+          "y": 2018.0339793742326
+        }, 
+        "height": 40, 
+        "number": "43", 
+        "piece_ids": [
+          18786
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 1520.554375300062, 
+          "y": 2060.466868711158
+        }, 
+        "height": 40, 
+        "number": "42", 
+        "piece_ids": [
+          18788
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 1520.554375300062, 
+          "y": 2101.131720992378
+        }, 
+        "height": 40, 
+        "number": "2", 
+        "piece_ids": [
+          18267
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 1610.7242651410286, 
+          "y": 1807.6375697453107
+        }, 
+        "height": 40, 
+        "number": "15", 
+        "piece_ids": [
+          19532
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 1610.7242651410286, 
+          "y": 1934.936237756087
+        }, 
+        "height": 40, 
+        "number": "10", 
+        "piece_ids": [
+          19419
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 1616.0283763081443, 
+          "y": 2026.8741646527587
+        }, 
+        "height": 40, 
+        "number": "13", 
+        "piece_ids": [
+          19418
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 907.0455169703487, 
+          "y": 2269.0952412843744
+        }, 
+        "height": 40, 
+        "number": "23", 
+        "piece_ids": [
+          19401
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 905.2774799146434, 
+          "y": 2348.65690879111
+        }, 
+        "height": 40, 
+        "number": "24", 
+        "piece_ids": [
+          19405
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 903.5094428589382, 
+          "y": 2407.0021316293823
+        }, 
+        "height": 40, 
+        "number": "23", 
+        "piece_ids": [
+          19401
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 1517.0183011886515, 
+          "y": 2387.553724016625
+        }, 
+        "height": 40, 
+        "number": "5006", 
+        "piece_ids": [
+          18792
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 1517.0183011886515, 
+          "y": 2444.130909799192
+        }, 
+        "height": 40, 
+        "number": "39", 
+        "piece_ids": [
+          19422
+        ], 
+        "width": 70
+      }, 
+      {
+        "coords": {
+          "x": 312.9850392752882,
+          "y": 2792.4342097731214
+        }, 
+        "height": 40, 
+        "number": "5001", 
+        "piece_ids": [
+          18390
+        ], 
+        "width": 70
+      }
+    ], 
+    "height": 3508, 
+    "width": 2479
+  }, 
+  "id": 7409, 
+  "img": "db/pdf/2011/page-1.png", 
+  "page": 1, 
+  "pieces": [
+    {
+      "description": "POMPE UP 15/60 220V STD(G)", 
+      "ref": "61010613"
+    }, 
+    {
+      "description": "CLIP", 
+      "ref": "61004877"
+    }, 
+    {
+      "description": "INSERT 3/4 G", 
+      "ref": "61006632"
+    }, 
+    {
+      "description": "JOINT PLAT D: 24-16-1.5", 
+      "ref": "61019058"
+    }, 
+    {
+      "description": "DOUILLE DE RACCORDEMENT", 
+      "ref": "61004432"
+    }, 
+    {
+      "description": "THERMOSTAT 57\u00b0C", 
+      "ref": "61316629"
+    }, 
+    {
+      "description": "PATTE SUPPORT", 
+      "ref": "61002517"
+    }, 
+    {
+      "description": "BORNIER DE RACCORDEMENT TRI", 
+      "ref": "60072835"
+    }, 
+    {
+      "description": "JOINT BRIDE D:121.3-105-7.1", 
+      "ref": "60071829"
+    }, 
+    {
+      "description": "ANODE D:25,5 L:180 M5-M8", 
+      "ref": "977127-01"
+    }, 
+    {
+      "description": "JOINT ANODE", 
+      "ref": "61306237"
+    }, 
+    {
+      "description": "CONTRE BRIDE 5 TROUS", 
+      "ref": "61005100"
+    }, 
+    {
+      "description": "TUBE DE RECYCLAGE TYP 1", 
+      "ref": "61004437"
+    }, 
+    {
+      "description": "TUBE DEPART EAU CHAUDE", 
+      "ref": "61004433"
+    }, 
+    {
+      "description": "POMPE UP 15/50 230V STD(G)", 
+      "ref": "61010612"
+    }, 
+    {
+      "description": "CONDENSATEUR", 
+      "ref": "61000652-10"
+    }, 
+    {
+      "description": "JOINT TORIQUE D: 16-1.9", 
+      "ref": "60024183-37"
+    }, 
+    {
+      "description": "CLIP", 
+      "ref": "60030898-03"
+    }, 
+    {
+      "description": "JOINT TORIQUE D: 27.8-3.6", 
+      "ref": "60024164-35"
+    }, 
+    {
+      "description": "REGULATEUR EAU ENS", 
+      "ref": "61004423"
+    }, 
+    {
+      "description": "CONTRE ECROU 3/4", 
+      "ref": "60030661"
+    }, 
+    {
+      "description": "PLAQUE DE RACCORDEMENT", 
+      "ref": "61004444"
+    }, 
+    {
+      "description": "RACCORD M/M 3/4", 
+      "ref": "61004422"
+    }, 
+    {
+      "description": "GROUPE DE SECU. 15/21 OU 20/27", 
+      "ref": "60077063"
+    }, 
+    {
+      "description": "PATTE MURALE D:470-505-560", 
+      "ref": "912006"
+    }
+  ], 
+  "pieces_dict": {
+    "18018": {
+      "description": "GROUPE DE SECU. 15/21 OU 20/27", 
+      "id": 18018, 
+      "ref": "60077063", 
+      "ref_distrib": "1738889"
+    }, 
+    "18267": {
+      "description": "JOINT BRIDE D:121.3-105-7.1", 
+      "id": 18267, 
+      "ref": "60071829", 
+      "ref_distrib": null
+    }, 
+    "18327": {
+      "description": "JOINT TORIQUE D: 16-1.9", 
+      "id": 18327, 
+      "ref": "60024183-37", 
+      "ref_distrib": "1783289"
+    }, 
+    "18390": {
+      "description": "POMPE UP 15/60 220V STD(G)", 
+      "id": 18390, 
+      "ref": "61010613", 
+      "ref_distrib": "1783521"
+    }, 
+    "18391": {
+      "description": "CONDENSATEUR", 
+      "id": 18391, 
+      "ref": "61000652-10", 
+      "ref_distrib": "1781938"
+    }, 
+    "18399": {
+      "description": "CLIP", 
+      "id": 18399, 
+      "ref": "60030898-03", 
+      "ref_distrib": "1781101"
+    }, 
+    "18401": {
+      "description": "JOINT TORIQUE D: 27.8-3.6", 
+      "id": 18401, 
+      "ref": "60024164-35", 
+      "ref_distrib": "1783640"
+    }, 
+    "18733": {
+      "description": "POMPE UP 15/50 230V STD(G)", 
+      "id": 18733, 
+      "ref": "61010612", 
+      "ref_distrib": "1027061"
+    }, 
+    "18778": {
+      "description": "PATTE MURALE D:470-505-560", 
+      "id": 18778, 
+      "ref": "912006", 
+      "ref_distrib": "1919243"
+    }, 
+    "18786": {
+      "description": "JOINT ANODE", 
+      "id": 18786, 
+      "ref": "61306237", 
+      "ref_distrib": null
+    }, 
+    "18788": {
+      "description": "ANODE D:25,5 L:180 M5-M8", 
+      "id": 18788, 
+      "ref": "977127-01", 
+      "ref_distrib": null
+    }, 
+    "18792": {
+      "description": "INSERT 3/4 G", 
+      "id": 18792, 
+      "ref": "61006632", 
+      "ref_distrib": null
+    }, 
+    "19401": {
+      "description": "JOINT PLAT D: 24-16-1.5", 
+      "id": 19401, 
+      "ref": "61019058", 
+      "ref_distrib": "3394040"
+    }, 
+    "19402": {
+      "description": "RACCORD M/M 3/4", 
+      "id": 19402, 
+      "ref": "61004422", 
+      "ref_distrib": null
+    }, 
+    "19403": {
+      "description": "PLAQUE DE RACCORDEMENT", 
+      "id": 19403, 
+      "ref": "61004444", 
+      "ref_distrib": null
+    }, 
+    "19404": {
+      "description": "CONTRE ECROU 3/4", 
+      "id": 19404, 
+      "ref": "60030661", 
+      "ref_distrib": null
+    }, 
+    "19405": {
+      "description": "DOUILLE DE RACCORDEMENT", 
+      "id": 19405, 
+      "ref": "61004432", 
+      "ref_distrib": null
+    }, 
+    "19406": {
+      "description": "REGULATEUR EAU ENS", 
+      "id": 19406, 
+      "ref": "61004423", 
+      "ref_distrib": "1781451"
+    }, 
+    "19410": {
+      "description": "TUBE DEPART EAU CHAUDE", 
+      "id": 19410, 
+      "ref": "61004433", 
+      "ref_distrib": null
+    }, 
+    "19411": {
+      "description": "TUBE DE RECYCLAGE TYP 1", 
+      "id": 19411, 
+      "ref": "61004437", 
+      "ref_distrib": "1782148"
+    }, 
+    "19418": {
+      "description": "THERMOSTAT 57\u00b0C", 
+      "id": 19418, 
+      "ref": "61316629", 
+      "ref_distrib": "1781705"
+    }, 
+    "19419": {
+      "description": "PATTE SUPPORT", 
+      "id": 19419, 
+      "ref": "61002517", 
+      "ref_distrib": null
+    }, 
+    "19422": {
+      "description": "CLIP", 
+      "id": 19422, 
+      "ref": "61004877", 
+      "ref_distrib": null
+    }, 
+    "19532": {
+      "description": "BORNIER DE RACCORDEMENT TRI", 
+      "id": 19532, 
+      "ref": "60072835", 
+      "ref_distrib": null
+    }, 
+    "19533": {
+      "description": "CONTRE BRIDE 5 TROUS", 
+      "id": 19533, 
+      "ref": "61005100", 
+      "ref_distrib": null
+    }
+  }, 
+  "pieces_ref_to_id": {}, 
+  "product_name": "688524 - CELECTIC 150L 05.91 11.92"
+}
